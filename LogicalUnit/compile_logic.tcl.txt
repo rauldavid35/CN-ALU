@@ -1,0 +1,8 @@
+vlog and32_b.v
+vlog or_32b.v
+vlog xor_32b.v
+vlog not_32b.v
+vlog nand_32b.v
+vlog nor_32b.v
+vlog xnor_32b.v
+vlog logic_unit_32b.v
